@@ -15,9 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React first now and later and later
+          Learn React first now
         </a>
       </header>
+      <div>
+        extra text
+      </div>
     </div>
   );
 }
